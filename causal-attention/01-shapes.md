@@ -30,7 +30,7 @@ The attention calculation is:
 
 $$
 S = \frac{QK^\top}{\sqrt{D}}, \qquad
-A = \operatorname{softmax}(S + M), \qquad
+A = \mathrm{softmax}(S + M), \qquad
 Y = AV.
 $$
 
