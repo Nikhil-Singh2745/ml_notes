@@ -1,0 +1,16 @@
+AGENTS.md
+AGENTS.override.md
+PERSONA.md
+.agents/
+.codex/
+.aws/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+.DS_Store
+*~
